@@ -3,6 +3,6 @@
 analyzing the world, ddep dive in the technology, exploring the deep with GitHub.
 This line is modified by 3rd collaborator.
 i am the 4th collaborator  & i am editing this line just for TEST.
-Github is very helpful for collaborating.
+Github is very helpful for collaboratiing
 im using github for first time.
 EDIt by owner 
